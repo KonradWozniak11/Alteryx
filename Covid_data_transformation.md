@@ -1,4 +1,4 @@
-# Alteryx
+# Alteryx ETL
 Readme File: Preparing Covid-19 Data from WHO for Visualization
 
 Introduction
