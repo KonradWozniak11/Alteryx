@@ -25,6 +25,7 @@ This included data on date, cases, deaths, and vaccinations by country, hospital
 
 ![image](https://user-images.githubusercontent.com/114254453/230885409-3ba94699-053d-443a-98f2-715af21fe0f4.png)
 Preview
+
 ![image](https://user-images.githubusercontent.com/114254453/230885510-98a22e7f-f656-494c-8bad-1f9f3e97e718.png)
 Description with formulas
 
