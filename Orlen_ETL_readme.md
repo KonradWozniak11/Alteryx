@@ -28,6 +28,7 @@ REGEX_Replace([_CurrentField_], '/.*', '')
 This formula extracts the relevant financial data and discards the rest, that we do not need. By using that we get:
 
 ![image](https://github.com/KonradWozniak11/Alteryx/assets/114254453/5c194acb-4603-42ab-9a31-a7726c0aade5)
+
 4. Select and Rename Columns
 
 Use the "Select" tool to choose the newly created columns containing the extracted financial data.
