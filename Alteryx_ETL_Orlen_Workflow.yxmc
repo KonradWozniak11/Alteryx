@@ -1,0 +1,805 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2022.3">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>FileToAlter.xlsx
+Query=`Table 0$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Data publikacji" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_String" />
+            <Field name="Aktywa trwałe" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Wartości niematerialne i prawne" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Wartość firmy" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Rzeczowe składniki majątku trwałego" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Aktywa z tytułu prawa do użytkowania" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Należności długoterminowe" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Inwestycje długoterminowe" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Pozostałe aktywa trwałe" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Aktywa obrotowe" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_String" />
+            <Field name="Zapasy" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_String" />
+            <Field name="Należności krótkoterminowe" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Inwestycje krótkoterminowe" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_String" />
+            <Field name="Środki pieniężne i inne aktywa pieniężne" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Pozostałe aktywa obrotowe" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Aktywa trwałe przeznaczone do sprzedaży" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Aktywa razem" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_String" />
+            <Field name="Kapitał własny akcjonariuszy jednostki dominującej" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Kapitał (fundusz) podstawowy" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Udziały (akcje) własne" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Kapitał (fundusz) zapasowy" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Udziały niekontrolujące" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Zobowiązania długoterminowe" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Z tytułu dostaw i usług" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Kredyty i pożyczki" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Z tytułu emisji dłużnych papierów wartościowych" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Zobowiązania z tytułu leasingu finansowego" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Inne zobowiązania długoterminowe" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Zobowiązania krótkoterminowe" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Z tytułu dostaw i usług2" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Kredyty i pożyczki2" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Z tytułu emisji dłużnych papierów wartościowych2" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Zobowiązania z tytułu leasingu finansowego2" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Inne zobowiązania krótkoterminowe" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Rozliczenia międzyokresowe" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_WString" />
+            <Field name="Pasywa razem" size="255" source="File: C:\Users\konra\OneDrive\Desktop\FileToAlter.xlsx|||`Table 0$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="174" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Layout>
+            <View1>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+          </Layout>
+          <TempFile>C:\Users\konra\AppData\Local\Temp\Engine_15852_484e92397123444582a00060f6f8d896_\Engine_15852_42186dbc8615bc4cb6aa0ffbf32e849e~.yxdb</TempFile>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings>
+        <Position x="282" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Check Box (135)">False</Value>
+          <Value name="Check Box (136)">False</Value>
+          <Value name="List Box (11)">"Data publikacji","Aktywa trwałe","Wartości niematerialne i prawne","Wartość firmy","Rzeczowe składniki majątku trwałego","Aktywa z tytułu prawa do użytkowania","Należności długoterminowe","Inwestycje długoterminowe","Pozostałe aktywa trwałe","Aktywa obrotowe","Zapasy","Należności krótkoterminowe","Inwestycje krótkoterminowe","Środki pieniężne i inne aktywa pieniężne","Pozostałe aktywa obrotowe","Aktywa trwałe przeznaczone do sprzedaży","Aktywa razem","Kapitał własny akcjonariuszy jednostki dominującej","Kapitał (fundusz) podstawowy","Udziały (akcje) własne","Kapitał (fundusz) zapasowy","Udziały niekontrolujące","Zobowiązania długoterminowe","Z tytułu dostaw i usług","Kredyty i pożyczki","Z tytułu emisji dłużnych papierów wartościowych","Zobowiązania z tytułu leasingu finansowego","Inne zobowiązania długoterminowe","Zobowiązania krótkoterminowe","Z tytułu dostaw i usług2","Kredyty i pożyczki2","Z tytułu emisji dłużnych papierów wartościowych2","Zobowiązania z tytułu leasingu finansowego2","Inne zobowiązania krótkoterminowe","Rozliczenia międzyokresowe","Pasywa razem"</Value>
+          <Value name="Check Box (84)">True</Value>
+          <Value name="Check Box (117)">True</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">True</Value>
+          <Value name="Check Box (53)">True</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">False</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output26">
+          <RecordInfo>
+            <Field name="Data publikacji" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_String" />
+            <Field name="Aktywa trwałe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Wartości niematerialne i prawne" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Wartość firmy" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Rzeczowe składniki majątku trwałego" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Aktywa z tytułu prawa do użytkowania" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Należności długoterminowe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Inwestycje długoterminowe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Pozostałe aktywa trwałe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Aktywa obrotowe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_String" />
+            <Field name="Zapasy" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_String" />
+            <Field name="Należności krótkoterminowe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Inwestycje krótkoterminowe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_String" />
+            <Field name="Środki pieniężne i inne aktywa pieniężne" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Pozostałe aktywa obrotowe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Aktywa trwałe przeznaczone do sprzedaży" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Aktywa razem" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_String" />
+            <Field name="Kapitał własny akcjonariuszy jednostki dominującej" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Kapitał (fundusz) podstawowy" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Udziały (akcje) własne" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Kapitał (fundusz) zapasowy" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Udziały niekontrolujące" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Zobowiązania długoterminowe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Z tytułu dostaw i usług" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Kredyty i pożyczki" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Z tytułu emisji dłużnych papierów wartościowych" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Zobowiązania z tytułu leasingu finansowego" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Inne zobowiązania długoterminowe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Zobowiązania krótkoterminowe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Z tytułu dostaw i usług2" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Kredyty i pożyczki2" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Z tytułu emisji dłużnych papierów wartościowych2" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Zobowiązania z tytułu leasingu finansowego2" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Inne zobowiązania krótkoterminowe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Rozliczenia międzyokresowe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Pasywa razem" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Tab.Tab">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MultiFieldFormula.MultiFieldFormula">
+        <Position x="390" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldType>All</FieldType>
+          <Fields orderChanged="False">
+            <Field name="Data publikacji" />
+            <Field name="Aktywa trwałe" />
+            <Field name="Wartości niematerialne i prawne" />
+            <Field name="Wartość firmy" />
+            <Field name="Rzeczowe składniki majątku trwałego" />
+            <Field name="Aktywa z tytułu prawa do użytkowania" />
+            <Field name="Należności długoterminowe" />
+            <Field name="Inwestycje długoterminowe" />
+            <Field name="Pozostałe aktywa trwałe" />
+            <Field name="Aktywa obrotowe" />
+            <Field name="Zapasy" />
+            <Field name="Należności krótkoterminowe" />
+            <Field name="Inwestycje krótkoterminowe" />
+            <Field name="Środki pieniężne i inne aktywa pieniężne" />
+            <Field name="Pozostałe aktywa obrotowe" />
+            <Field name="Aktywa trwałe przeznaczone do sprzedaży" />
+            <Field name="Aktywa razem" />
+            <Field name="Kapitał własny akcjonariuszy jednostki dominującej" />
+            <Field name="Kapitał (fundusz) podstawowy" />
+            <Field name="Udziały (akcje) własne" />
+            <Field name="Kapitał (fundusz) zapasowy" />
+            <Field name="Udziały niekontrolujące" />
+            <Field name="Zobowiązania długoterminowe" />
+            <Field name="Z tytułu dostaw i usług" />
+            <Field name="Kredyty i pożyczki" />
+            <Field name="Z tytułu emisji dłużnych papierów wartościowych" />
+            <Field name="Zobowiązania z tytułu leasingu finansowego" />
+            <Field name="Inne zobowiązania długoterminowe" />
+            <Field name="Zobowiązania krótkoterminowe" />
+            <Field name="Z tytułu dostaw i usług2" />
+            <Field name="Kredyty i pożyczki2" />
+            <Field name="Z tytułu emisji dłużnych papierów wartościowych2" />
+            <Field name="Zobowiązania z tytułu leasingu finansowego2" />
+            <Field name="Inne zobowiązania krótkoterminowe" />
+            <Field name="Rozliczenia międzyokresowe" />
+            <Field name="Pasywa razem" />
+            <Field name="*Unknown" />
+          </Fields>
+          <NewFieldAddOn>New_</NewFieldAddOn>
+          <NewFieldAddOnPos>Prefix</NewFieldAddOnPos>
+          <CopyOutput value="True" />
+          <Expression>REGEX_Replace([_CurrentField_], '/.*', '')</Expression>
+          <ChangeFieldType value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>REGEX_Replace([_CurrentField_], '/.*', '')</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Data publikacji" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_String" />
+            <Field name="Aktywa trwałe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Wartości niematerialne i prawne" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Wartość firmy" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Rzeczowe składniki majątku trwałego" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Aktywa z tytułu prawa do użytkowania" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Należności długoterminowe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Inwestycje długoterminowe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Pozostałe aktywa trwałe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Aktywa obrotowe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_String" />
+            <Field name="Zapasy" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_String" />
+            <Field name="Należności krótkoterminowe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Inwestycje krótkoterminowe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_String" />
+            <Field name="Środki pieniężne i inne aktywa pieniężne" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Pozostałe aktywa obrotowe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Aktywa trwałe przeznaczone do sprzedaży" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Aktywa razem" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_String" />
+            <Field name="Kapitał własny akcjonariuszy jednostki dominującej" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Kapitał (fundusz) podstawowy" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Udziały (akcje) własne" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Kapitał (fundusz) zapasowy" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Udziały niekontrolujące" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Zobowiązania długoterminowe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Z tytułu dostaw i usług" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Kredyty i pożyczki" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Z tytułu emisji dłużnych papierów wartościowych" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Zobowiązania z tytułu leasingu finansowego" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Inne zobowiązania długoterminowe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Zobowiązania krótkoterminowe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Z tytułu dostaw i usług2" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Kredyty i pożyczki2" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Z tytułu emisji dłużnych papierów wartościowych2" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Zobowiązania z tytułu leasingu finansowego2" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Inne zobowiązania krótkoterminowe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Rozliczenia międzyokresowe" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_WString" />
+            <Field name="Pasywa razem" size="255" source="Formula: IF !IsNull([_CurrentField_]) THEN &#xA;  REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;ELSE [_CurrentField_]&#xA;ENDIF" type="V_String" />
+            <Field name="New_Data publikacji" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+            <Field name="New_Aktywa trwałe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Wartości niematerialne i prawne" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Wartość firmy" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Rzeczowe składniki majątku trwałego" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Aktywa z tytułu prawa do użytkowania" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Należności długoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Inwestycje długoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Pozostałe aktywa trwałe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Aktywa obrotowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+            <Field name="New_Zapasy" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+            <Field name="New_Należności krótkoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Inwestycje krótkoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+            <Field name="New_Środki pieniężne i inne aktywa pieniężne" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Pozostałe aktywa obrotowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Aktywa trwałe przeznaczone do sprzedaży" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Aktywa razem" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+            <Field name="New_Kapitał własny akcjonariuszy jednostki dominującej" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Kapitał (fundusz) podstawowy" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Udziały (akcje) własne" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Kapitał (fundusz) zapasowy" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Udziały niekontrolujące" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Zobowiązania długoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Z tytułu dostaw i usług" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Kredyty i pożyczki" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Z tytułu emisji dłużnych papierów wartościowych" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Zobowiązania z tytułu leasingu finansowego" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Inne zobowiązania długoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Zobowiązania krótkoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Z tytułu dostaw i usług2" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Kredyty i pożyczki2" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Z tytułu emisji dłużnych papierów wartościowych2" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Zobowiązania z tytułu leasingu finansowego2" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Inne zobowiązania krótkoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Rozliczenia międzyokresowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="New_Pasywa razem" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiFieldFormula" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="498" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="New_Data publikacji" selected="True" rename="Data Publikacji" />
+            <SelectField field="New_Aktywa trwałe" selected="True" rename="Aktywa Trwałe" />
+            <SelectField field="New_Wartości niematerialne i prawne" selected="True" rename="Wartości niematerialne i prawne" />
+            <SelectField field="New_Wartość firmy" selected="True" rename="Wartośc firmy" />
+            <SelectField field="New_Rzeczowe składniki majątku trwałego" selected="True" rename="Rzeczowe składniki majątku trwałego" />
+            <SelectField field="New_Aktywa z tytułu prawa do użytkowania" selected="True" rename="Aktywa z tytułu prawa do użytkowania" />
+            <SelectField field="New_Należności długoterminowe" selected="True" rename="Należności długoterminowe" />
+            <SelectField field="New_Inwestycje długoterminowe" selected="True" rename="Inwestycje długoterminowe" />
+            <SelectField field="New_Pozostałe aktywa trwałe" selected="True" rename="Pozstałe aktywa trwałe" />
+            <SelectField field="New_Aktywa obrotowe" selected="True" rename="Aktywa obrotowe" />
+            <SelectField field="New_Zapasy" selected="True" rename="Zapasy" />
+            <SelectField field="New_Należności krótkoterminowe" selected="True" rename="Należności krótkoterminowe" />
+            <SelectField field="New_Inwestycje krótkoterminowe" selected="True" rename="Inwestycje krótkoterminowe" />
+            <SelectField field="New_Środki pieniężne i inne aktywa pieniężne" selected="True" rename="Środki pieniężne i inne aktywa pieniężne" />
+            <SelectField field="New_Pozostałe aktywa obrotowe" selected="True" rename="Pozostałe aktywa obrotowe" />
+            <SelectField field="New_Aktywa trwałe przeznaczone do sprzedaży" selected="True" rename="Aktywa trwałe przeznaczone do sprzedaży" />
+            <SelectField field="New_Aktywa razem" selected="True" rename="Aktywa razem" />
+            <SelectField field="New_Kapitał własny akcjonariuszy jednostki dominującej" selected="True" rename="Kapitał własny akcjonariuszy jednostki dominującej" />
+            <SelectField field="New_Kapitał (fundusz) podstawowy" selected="True" rename="Kapitał podstawowy" />
+            <SelectField field="New_Udziały (akcje) własne" selected="True" rename="Udziały (akcje) własne" />
+            <SelectField field="New_Kapitał (fundusz) zapasowy" selected="True" rename="Kapitał zapasowy" />
+            <SelectField field="New_Udziały niekontrolujące" selected="True" rename="Udziały niekontrolujące" />
+            <SelectField field="New_Zobowiązania długoterminowe" selected="True" rename="Zobowiązania długoterminowe" />
+            <SelectField field="New_Z tytułu dostaw i usług" selected="True" rename="Z tytułu dostaw i usług" />
+            <SelectField field="New_Kredyty i pożyczki" selected="True" rename="Kredyty i pożyczki" />
+            <SelectField field="New_Z tytułu emisji dłużnych papierów wartościowych" selected="True" rename="Z tytuły emisji dłużnych papierów wartościowych" />
+            <SelectField field="New_Zobowiązania z tytułu leasingu finansowego" selected="True" rename="Zobowiązania z tytułu leasingu finansowego" />
+            <SelectField field="New_Inne zobowiązania długoterminowe" selected="True" rename="Inne zobowiązania długoterminowe" />
+            <SelectField field="New_Zobowiązania krótkoterminowe" selected="True" rename="Zobowiązania krótkoterminowe" />
+            <SelectField field="New_Z tytułu dostaw i usług2" selected="True" rename="Z tytułu dostaw i usług2" />
+            <SelectField field="New_Kredyty i pożyczki2" selected="True" rename="Kredyty i pożyczki2" />
+            <SelectField field="New_Z tytułu emisji dłużnych papierów wartościowych2" selected="True" rename="Z tytułu emisji dłużnych papierów wartościowych2" />
+            <SelectField field="New_Zobowiązania z tytułu leasingu finansowego2" selected="True" rename="Zobowiązania z tytułu leasingu finansowego2" />
+            <SelectField field="New_Inne zobowiązania krótkoterminowe" selected="True" rename="Inne zobowiązania krótkoterminowe" />
+            <SelectField field="New_Rozliczenia międzyokresowe" selected="True" rename="Rozliczenia międzyokresowe" />
+            <SelectField field="New_Pasywa razem" selected="True" rename="Pasywa Razem" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Data Publikacji" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+            <Field name="Aktywa Trwałe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Wartości niematerialne i prawne" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Wartośc firmy" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Rzeczowe składniki majątku trwałego" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Aktywa z tytułu prawa do użytkowania" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Należności długoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Inwestycje długoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Pozstałe aktywa trwałe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Aktywa obrotowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+            <Field name="Zapasy" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+            <Field name="Należności krótkoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Inwestycje krótkoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+            <Field name="Środki pieniężne i inne aktywa pieniężne" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Pozostałe aktywa obrotowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Aktywa trwałe przeznaczone do sprzedaży" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Aktywa razem" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+            <Field name="Kapitał własny akcjonariuszy jednostki dominującej" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Kapitał podstawowy" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Udziały (akcje) własne" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Kapitał zapasowy" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Udziały niekontrolujące" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Zobowiązania długoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Z tytułu dostaw i usług" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Kredyty i pożyczki" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Z tytuły emisji dłużnych papierów wartościowych" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Zobowiązania z tytułu leasingu finansowego" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Inne zobowiązania długoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Zobowiązania krótkoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Z tytułu dostaw i usług2" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Kredyty i pożyczki2" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Z tytułu emisji dłużnych papierów wartościowych2" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Zobowiązania z tytułu leasingu finansowego2" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Inne zobowiązania krótkoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Rozliczenia międzyokresowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Pasywa Razem" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="594" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="Left([Data Publikacji], 4)" field="Data Publikacji" size="255" type="V_String" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Data Publikacji = Left([Data Publikacji], 4)
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Data Publikacji" size="255" source="Formula: Left([Data Publikacji], 4)" type="V_String" />
+            <Field name="Aktywa Trwałe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Wartości niematerialne i prawne" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Wartośc firmy" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Rzeczowe składniki majątku trwałego" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Aktywa z tytułu prawa do użytkowania" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Należności długoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Inwestycje długoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Pozstałe aktywa trwałe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Aktywa obrotowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+            <Field name="Zapasy" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+            <Field name="Należności krótkoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Inwestycje krótkoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+            <Field name="Środki pieniężne i inne aktywa pieniężne" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Pozostałe aktywa obrotowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Aktywa trwałe przeznaczone do sprzedaży" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Aktywa razem" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+            <Field name="Kapitał własny akcjonariuszy jednostki dominującej" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Kapitał podstawowy" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Udziały (akcje) własne" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Kapitał zapasowy" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Udziały niekontrolujące" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Zobowiązania długoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Z tytułu dostaw i usług" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Kredyty i pożyczki" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Z tytuły emisji dłużnych papierów wartościowych" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Zobowiązania z tytułu leasingu finansowego" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Inne zobowiązania długoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Zobowiązania krótkoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Z tytułu dostaw i usług2" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Kredyty i pożyczki2" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Z tytułu emisji dłużnych papierów wartościowych2" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Zobowiązania z tytułu leasingu finansowego2" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Inne zobowiązania krótkoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Rozliczenia międzyokresowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Pasywa Razem" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="690" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>&lt;</Operator>
+            <Field>Data Publikacji</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2023-08-15 14:11:01</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>2023</Operand>
+              <StartDate>2023-08-15 14:11:01</StartDate>
+              <EndDate>2023-08-15 14:11:01</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Data Publikacji] &lt; "2023"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="Data Publikacji" size="255" source="Formula: Left([Data Publikacji], 4)" type="V_String" />
+            <Field name="Aktywa Trwałe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Wartości niematerialne i prawne" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Wartośc firmy" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Rzeczowe składniki majątku trwałego" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Aktywa z tytułu prawa do użytkowania" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Należności długoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Inwestycje długoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Pozstałe aktywa trwałe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Aktywa obrotowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+            <Field name="Zapasy" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+            <Field name="Należności krótkoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Inwestycje krótkoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+            <Field name="Środki pieniężne i inne aktywa pieniężne" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Pozostałe aktywa obrotowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Aktywa trwałe przeznaczone do sprzedaży" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Aktywa razem" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+            <Field name="Kapitał własny akcjonariuszy jednostki dominującej" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Kapitał podstawowy" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Udziały (akcje) własne" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Kapitał zapasowy" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Udziały niekontrolujące" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Zobowiązania długoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Z tytułu dostaw i usług" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Kredyty i pożyczki" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Z tytuły emisji dłużnych papierów wartościowych" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Zobowiązania z tytułu leasingu finansowego" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Inne zobowiązania długoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Zobowiązania krótkoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Z tytułu dostaw i usług2" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Kredyty i pożyczki2" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Z tytułu emisji dłużnych papierów wartościowych2" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Zobowiązania z tytułu leasingu finansowego2" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Inne zobowiązania krótkoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Rozliczenia międzyokresowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Pasywa Razem" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="Data Publikacji" size="255" source="Formula: Left([Data Publikacji], 4)" type="V_String" />
+            <Field name="Aktywa Trwałe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Wartości niematerialne i prawne" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Wartośc firmy" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Rzeczowe składniki majątku trwałego" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Aktywa z tytułu prawa do użytkowania" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Należności długoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Inwestycje długoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Pozstałe aktywa trwałe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Aktywa obrotowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+            <Field name="Zapasy" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+            <Field name="Należności krótkoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Inwestycje krótkoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+            <Field name="Środki pieniężne i inne aktywa pieniężne" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Pozostałe aktywa obrotowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Aktywa trwałe przeznaczone do sprzedaży" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Aktywa razem" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+            <Field name="Kapitał własny akcjonariuszy jednostki dominującej" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Kapitał podstawowy" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Udziały (akcje) własne" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Kapitał zapasowy" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Udziały niekontrolujące" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Zobowiązania długoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Z tytułu dostaw i usług" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Kredyty i pożyczki" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Z tytuły emisji dłużnych papierów wartościowych" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Zobowiązania z tytułu leasingu finansowego" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Inne zobowiązania długoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Zobowiązania krótkoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Z tytułu dostaw i usług2" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Kredyty i pożyczki2" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Z tytułu emisji dłużnych papierów wartościowych2" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Zobowiązania z tytułu leasingu finansowego2" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Inne zobowiązania krótkoterminowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Rozliczenia międzyokresowe" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_WString" />
+            <Field name="Pasywa Razem" size="255" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="786" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Data Publikacji" selected="True" />
+            <SelectField field="Aktywa Trwałe" selected="True" type="Int32" size="4" />
+            <SelectField field="Wartości niematerialne i prawne" selected="True" type="Int32" size="4" />
+            <SelectField field="Wartośc firmy" selected="True" type="Int32" size="4" />
+            <SelectField field="Rzeczowe składniki majątku trwałego" selected="True" type="Int32" size="4" />
+            <SelectField field="Aktywa z tytułu prawa do użytkowania" selected="True" type="Int32" size="4" />
+            <SelectField field="Należności długoterminowe" selected="True" type="Int32" size="4" />
+            <SelectField field="Inwestycje długoterminowe" selected="True" type="Int32" size="4" />
+            <SelectField field="Pozstałe aktywa trwałe" selected="True" type="Int32" size="4" />
+            <SelectField field="Aktywa obrotowe" selected="True" type="Int32" size="4" />
+            <SelectField field="Zapasy" selected="True" type="Int32" size="4" />
+            <SelectField field="Należności krótkoterminowe" selected="True" type="Int32" size="4" />
+            <SelectField field="Inwestycje krótkoterminowe" selected="True" type="Int32" size="4" />
+            <SelectField field="Środki pieniężne i inne aktywa pieniężne" selected="True" type="Int32" size="4" />
+            <SelectField field="Pozostałe aktywa obrotowe" selected="True" type="Int32" size="4" />
+            <SelectField field="Aktywa trwałe przeznaczone do sprzedaży" selected="True" type="Int32" size="4" />
+            <SelectField field="Aktywa razem" selected="True" type="Int32" size="4" />
+            <SelectField field="Kapitał własny akcjonariuszy jednostki dominującej" selected="True" type="Int32" size="4" />
+            <SelectField field="Kapitał podstawowy" selected="True" type="Int32" size="4" />
+            <SelectField field="Udziały (akcje) własne" selected="False" type="Int32" size="4" />
+            <SelectField field="Kapitał zapasowy" selected="True" type="Int32" size="4" />
+            <SelectField field="Udziały niekontrolujące" selected="True" type="Int32" size="4" />
+            <SelectField field="Zobowiązania długoterminowe" selected="True" type="Int32" size="4" />
+            <SelectField field="Z tytułu dostaw i usług" selected="True" type="Int32" size="4" />
+            <SelectField field="Kredyty i pożyczki" selected="True" type="Int32" size="4" />
+            <SelectField field="Zobowiązania z tytułu leasingu finansowego" selected="True" type="Int32" size="4" />
+            <SelectField field="Inne zobowiązania długoterminowe" selected="True" type="Int32" size="4" />
+            <SelectField field="Zobowiązania krótkoterminowe" selected="True" type="Int32" size="4" />
+            <SelectField field="Z tytułu dostaw i usług2" selected="True" type="Int32" size="4" />
+            <SelectField field="Kredyty i pożyczki2" selected="True" type="Int32" size="4" />
+            <SelectField field="Zobowiązania z tytułu leasingu finansowego2" selected="True" type="Int32" size="4" />
+            <SelectField field="Inne zobowiązania krótkoterminowe" selected="True" type="Int32" size="4" />
+            <SelectField field="Rozliczenia międzyokresowe" selected="False" type="Int32" size="4" />
+            <SelectField field="Pasywa Razem" selected="True" type="Int32" size="4" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Data Publikacji" size="255" source="Formula: Left([Data Publikacji], 4)" type="V_String" />
+            <Field name="Aktywa Trwałe" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Wartości niematerialne i prawne" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Wartośc firmy" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Rzeczowe składniki majątku trwałego" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Aktywa z tytułu prawa do użytkowania" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Należności długoterminowe" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Inwestycje długoterminowe" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Pozstałe aktywa trwałe" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Aktywa obrotowe" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Zapasy" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Należności krótkoterminowe" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Inwestycje krótkoterminowe" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Środki pieniężne i inne aktywa pieniężne" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Pozostałe aktywa obrotowe" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Aktywa trwałe przeznaczone do sprzedaży" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Aktywa razem" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Kapitał własny akcjonariuszy jednostki dominującej" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Kapitał podstawowy" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Kapitał zapasowy" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Udziały niekontrolujące" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Zobowiązania długoterminowe" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Z tytułu dostaw i usług" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Kredyty i pożyczki" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Zobowiązania z tytułu leasingu finansowego" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Inne zobowiązania długoterminowe" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Zobowiązania krótkoterminowe" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Z tytułu dostaw i usług2" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Kredyty i pożyczki2" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Zobowiązania z tytułu leasingu finansowego2" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Inne zobowiązania krótkoterminowe" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+            <Field name="Pasywa Razem" source="Formula: REGEX_Replace([_CurrentField_], '/.*', '')" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="882" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">C:\Users\konra\OneDrive\Desktop\Dataset_after.csv</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Dataset_after.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="3" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output26" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="True" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Alteryx_ELT_Orlen_Workflow</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="9bef416f-757a-4362-8f64-34ebdc3defc1" />
+      <Telemetry>
+        <PreviousWorkflowId value="58dab5ac-71c8-4674-9aeb-80845a157e84" />
+        <OriginWorkflowId value="58dab5ac-71c8-4674-9aeb-80845a157e84" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="False" />
+    </Events>
+    <RuntimeProperties>
+      <Actions />
+      <Questions>
+        <Question>
+          <Type>Tab</Type>
+          <Description>Questions</Description>
+          <Name>Tab (9)</Name>
+          <ToolId value="9" />
+          <Questions />
+        </Question>
+      </Questions>
+      <ModuleType>Macro</ModuleType>
+      <MacroCustomHelp value="False" />
+      <MacroDynamicOutputFields value="False" />
+      <MacroImageStd value="39" />
+      <MacroInputs />
+      <MacroOutputs />
+      <BatchMacro>
+        <OutputMode>AllSame</OutputMode>
+        <ControlParams />
+      </BatchMacro>
+      <Wiz_CustomHelp value="False" />
+      <Wiz_CustomGraphic value="False" />
+      <Wiz_ShowOutput value="True" />
+      <Wiz_OpenOutputTools>
+        <Tool ToolId="2" Selected="False" />
+        <Tool ToolId="3" Selected="True" />
+        <Tool ToolId="17" Selected="True" />
+      </Wiz_OpenOutputTools>
+      <Wiz_OutputMessage />
+      <Wiz_NoOutputFilesMessage />
+      <Wiz_ChainRunWizard />
+    </RuntimeProperties>
+  </Properties>
+</AlteryxDocument>
