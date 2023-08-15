@@ -1,4 +1,4 @@
-# PKN Orlen Alteryx data transformation
+# PKN Orlen Alteryx financial results transformation
 
 Introduction
 
