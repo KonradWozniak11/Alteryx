@@ -2,7 +2,7 @@
 
 Introduction
 
-Data Source: Download financial data from the BusinessRadar website. This data includes stock prices, financial results, and other relevant information for various companies. https://www.biznesradar.pl/raporty-finansowe-bilans/ORLEN
+Data Source: Download financial data from the Biznesradar.pl website. This data includes stock prices, financial results, and other relevant information for various companies. https://www.biznesradar.pl/raporty-finansowe-bilans/ORLEN
 
 Excel Preparation: Import the downloaded data into Microsoft Excel. The Excel file will have a structure similar to what you retrieved from the website.
 
@@ -58,5 +58,5 @@ After setting up the workflow as described above, you can run it by clicking the
 The workflow will automatically perform the series of data transformation steps, resulting in a CSV file containing clean and organized financial data ready for analysis.
 By following this Alteryx workflow, you can easily process financial data from various companies obtained from the Biznesradar website. The automated nature of this workflow streamlines the data processing tasks, ensuring that you have clean and accurate data for analysis without the need for manual intervention.
 
-Our final Workflow looks like this:
+Our final Workflow is presented below. It can work with any type of data from Biznesradar website.
 ![image](https://github.com/KonradWozniak11/Alteryx/assets/114254453/6a917437-9e05-4bf8-8c33-d1dcd9ee0d9d)
