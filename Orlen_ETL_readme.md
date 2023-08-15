@@ -57,3 +57,6 @@ Running the Workflow
 After setting up the workflow as described above, you can run it by clicking the "Run" button within Alteryx.
 The workflow will automatically perform the series of data transformation steps, resulting in a CSV file containing clean and organized financial data ready for analysis.
 By following this Alteryx workflow, you can easily process financial data from various companies obtained from the Biznesradar website. The automated nature of this workflow streamlines the data processing tasks, ensuring that you have clean and accurate data for analysis without the need for manual intervention.
+
+Our final Workflow looks like this:
+![image](https://github.com/KonradWozniak11/Alteryx/assets/114254453/6a917437-9e05-4bf8-8c33-d1dcd9ee0d9d)
