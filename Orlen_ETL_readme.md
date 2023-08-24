@@ -9,6 +9,7 @@ Excel Preparation: Import the downloaded data into Microsoft Excel. The Excel fi
 Save and Close Excel: After importing the data, save the Excel file and close it. Although manual processing using Excel's features like queries and text to columns is possible, we will leverage Alteryx to create a universal workflow for automated data processing.
 It is worth mentioning that Alteryx also enables webscrapping.
 
+![image](https://github.com/KonradWozniak11/Alteryx/assets/114254453/6a917437-9e05-4bf8-8c33-d1dcd9ee0d9d)
 Alteryx Workflow Steps in Data Transformation
 
 1. Importing Data
