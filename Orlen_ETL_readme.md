@@ -1,5 +1,10 @@
 # PKN Orlen Alteryx financial results transformation
 
+Readme related to fiels:
+* Dataset_Before.xlsx
+* Dataset_After.csv
+* Alteryx_ETL_Orlen_Workflow.yxmc
+
 Introduction
 
 Data Source: Download financial data from the Biznesradar.pl website. This data includes stock prices, financial results, and other relevant information for various companies. https://www.biznesradar.pl/raporty-finansowe-bilans/ORLEN
